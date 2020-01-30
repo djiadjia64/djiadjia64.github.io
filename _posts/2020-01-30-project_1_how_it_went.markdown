@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project 1: How It Went"
-date:       2020-01-30 09:56:09 +0000
+date:       2020-01-30 04:56:10 -0500
 permalink:  project_1_how_it_went
 ---
 
