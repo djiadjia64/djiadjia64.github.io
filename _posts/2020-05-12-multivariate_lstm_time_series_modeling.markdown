@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Multivariate LSTM Time Series Modeling"
-date:       2020-05-13 03:14:52 +0000
+date:       2020-05-12 23:14:53 -0400
 permalink:  multivariate_lstm_time_series_modeling
 ---
 
